@@ -1,1 +1,1 @@
-# gofuture.school
+# GO FUTURE SCHOOL
