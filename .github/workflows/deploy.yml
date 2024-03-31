@@ -29,5 +29,9 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
+<<<<<<< HEAD
           project: "gofuture.school" # 📝 Update the deploy project name if necessary
+=======
+          project: "flat-starling-17" # 📝 Update the deploy project name if necessary
+>>>>>>> f8a0968a30e9a6164b4ccffe6ec721eafb84c51b
           entrypoint: "./main.ts" # 📝 Update the entrypoint if necessary
