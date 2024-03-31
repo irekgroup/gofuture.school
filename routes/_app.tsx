@@ -31,6 +31,7 @@ export default function App({ Component }: PageProps) {
 	</script>
 	<noscript><div><img src="https://mc.yandex.ru/watch/96899435" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 	<!-- /Yandex.Metrika counter -->
+		<meta name="yandex-verification" content="5da95ba766de6cef" />
       </head>
       <body>
         <Component />
