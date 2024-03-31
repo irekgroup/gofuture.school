@@ -13,7 +13,6 @@ export default function App({ Component }: PageProps) {
           Domain for sale
           Offer a price
           THE BEST INNOVATION SCHOOL"
-
 				/>
       </head>
       <body>
