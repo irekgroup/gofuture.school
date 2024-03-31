@@ -29,6 +29,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "ireknizamov-gofuturesch-37"
+          project: "gofuture.school"
           entrypoint: "main.ts"
           root: "."
