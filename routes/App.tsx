@@ -1,4 +1,5 @@
 import { type PageProps } from "$fresh/server.ts";
+
 export default function App({ Component }: PageProps) {
   return (
     <html>
@@ -8,13 +9,12 @@ export default function App({ Component }: PageProps) {
         <title>GO FUTURE SCHOOL</title>
         <link rel="stylesheet" href="/styles.css" />
         <meta
-					name="description"
-					content="GO FUTURE SCHOOL
+          name="description"
+          content="GO FUTURE SCHOOL
           Domain for sale
           Offer a price
-          THE BEST INNOVATION SCHOOL"
-				/>
-        <meta name="yandex-verification" content="5da95ba766de6cef" />
+          THE BEST INNOVATION SCHOOL"/>
+          <meta name="yandex-verification" content="5da95ba766de6cef" />
       </head>
       <body>
         <Component />
